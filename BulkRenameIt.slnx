@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BulkRenameIt/BulkRenameIt.csproj" />
+  <Project Path="MockMediaGenerator/MockMediaGenerator.csproj" Id="14ba03ca-fdca-4491-b26c-19f1d7cff3d2" />
+</Solution>
